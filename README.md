@@ -28,6 +28,9 @@ Social community app. TypeScript, React Native, Postgres, Playwright.
 - **[Absenteeism Dashboard](https://github.com/llevensailor/CSC-235-Final-Project-Public-Health-Institute-Absenteeism-Dashboard)**:
   public-facing data visualization built with a team for the Public Health
   Institute of Western MA
+- **[Interactive Nutrition Label](https://github.com/gemmaqu/interactive-nutrition-label)**:
+  FDA-style Nutrition Facts label with D3 hover highlights, % Daily Value markers,
+  and charts
 
 ## Skills
 
