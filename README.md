@@ -1,4 +1,4 @@
-# Hi, I'm Gemma 👋
+# Hi, I'm Tina 👋
 
 Full-stack engineer and Duke CS student, concentration in AI/ML, expected graduation in 2028. I build and ship product features across React Native, TypeScript, and Postgres.
 
